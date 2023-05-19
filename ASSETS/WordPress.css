@@ -88,3 +88,9 @@ header h2{
     width: 80%;
     
 }
+.capWp{
+    box-shadow: 0 0 5px 5px rgba(21, 38, 32, 0.53);
+}
+.imgCapWp{
+    width: 100%;
+}
