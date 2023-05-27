@@ -88,3 +88,10 @@ header h2{
     width: 80%;
     
 }
+
+.divCap{
+    border: black solid 3px;
+}
+.imgCap{
+    width: 100%;
+}
