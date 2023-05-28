@@ -2,7 +2,7 @@ body{
     margin: 0 0;
     padding: 0 0;
 
-    background-color: #1d1e29;
+    background-color: #291d26;
     
 
     text-align: center;
@@ -25,13 +25,13 @@ a{
     display: flex;
     justify-content: center;
 
-    background-color: #1d1e29;
+    background-color: #291d29;
 }
 .navOpt{
     
     width: 25%;
     padding: 10px ;
-    background-color:#1d1e29;
+    background-color:#291d29;
     transition: 0.2s;
     
 }
@@ -39,9 +39,9 @@ a{
     cursor: pointer;
     color: rgb(0, 0, 0);
     font-weight: bolder;
-    background-color: #434a77;
+    background-color: #774373;
     transform: translateY(10px);
-    box-shadow: 0px 3px 3px #1d1e29;
+    box-shadow: 0px 3px 3px #291d28;
 }
 
 header .Imagen{
@@ -71,7 +71,7 @@ header h2{
     margin: 30px 70px 10px;
     
 
-    background-color: #434a7798;
+    background-color: #775a4398;
     border-radius: 2vw;
 
     box-shadow: inset 0 0 70vw #1d1e296d, inset 0 0 40vw #1d1e29, 0 0 10vw rgba(0, 0, 0, 0.394);
