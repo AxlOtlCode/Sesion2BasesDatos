@@ -1,4 +1,4 @@
-body{
+body{ 
     margin: 0 0;
     padding: 0 0;
 
@@ -80,4 +80,8 @@ header h2{
 }
 .imgGato{
     width: 40%s;
+}
+.imgLogo{
+    width: 100%;
+    filter: drop-shadow(0 0 10px white);
 }
